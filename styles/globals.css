@@ -1,0 +1,33 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background:linear-gradient(
+      45deg,
+      hsl(240deg 85% 46%) 0%,
+      hsl(241deg 69% 41%) 8%,
+      hsl(244deg 56% 35%) 17%,
+      hsl(247deg 41% 29%) 25%,
+      hsl(241deg 37% 27%) 33%,
+      hsl(236deg 36% 24%) 42%,
+      hsl(232deg 34% 22%) 50%,
+      hsl(231deg 57% 26%) 58%,
+      hsl(232deg 73% 29%) 67%,
+      hsl(243deg 77% 34%) 75%,
+      hsl(229deg 100% 23%) 83%,
+      hsl(227deg 100% 16%) 92%,
+      hsl(237deg 91% 9%) 100%
+    );
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
